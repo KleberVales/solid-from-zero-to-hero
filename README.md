@@ -39,3 +39,19 @@ I consider SRP (Single Principle Ratio) one of the most important principles; it
 
 By applying this principle, you will automatically be writing cleaner and more maintainable code! If you are interested in this subject, I recommend reading about best practices for writing impeccable code.
 
+**2. OCP — Open-Closed Principle:**
+
+Open-Closed Principle — Objects or entities should be open for extension but closed for modification; that is, 
+when new behaviors and features need to be added to the software, we should extend and not modify the original source code.
+
+**3. LSP— Liskov Substitution Principle:**
+
+Liskov Substitution Principle — A derived class must be substitutable for its base class.
+
+
+
+
+
+
+
+
