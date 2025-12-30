@@ -57,6 +57,10 @@ Following the LSP allows us to use polymorphism with more confidence. We can cal
 
 **4. ISP — Interface Segregation Principle:**
 
+Interface Segregation Principle — A class should not be forced to implement interfaces and methods that it will not use.
+
+This principle basically states that it is better to create more specific interfaces instead of having a single generic interface.
+
 
 
 
