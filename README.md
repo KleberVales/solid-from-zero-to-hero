@@ -21,16 +21,17 @@ This principle states that a class should be specialized in a single subject and
 
 When learning object-oriented programming, we unknowingly give a class more than one responsibility and end up creating classes that do everything — God Classes*. At first, this may seem efficient, but because responsibilities end up being mixed, when there is a need to make changes to this class, it will be difficult to modify one of these responsibilities without compromising the others. Every change ends up being introduced with a certain level of uncertainty in our system — especially if there are no automated tests!
 
-A violação do Single Responsibility Principle pode gerar alguns problemas, sendo eles:
+Violating the Single Responsibility Principle can lead to several problems, including:
 
-- Falta de coesão — uma classe não deve assumir responsabilidades que não são suas;
-  
-- Alto acoplamento — Mais responsabilidades geram um maior nível de dependências, deixando o sistema engessado e frágil para alterações;
-  
-- Dificuldades na implementação de testes automatizados — É difícil de “mockar” esse tipo de classe;
-  
-- Dificuldades para reaproveitar o código;
+- Lack of cohesion — a class should not assume responsibilities that are not its own;
+
+- High coupling — More responsibilities generate a higher level of dependencies, making the system rigid and fragile for changes;
+
+- Difficulties in implementing automated tests — It is difficult to "mock" this type of class;
+
+- Difficulties in reusing code;
 
 
-
+The single responsibility principle is not limited to classes; it can also be applied to methods and functions. 
+In other words, anything responsible for performing an action should only be responsible for what it is designed to do.
 
