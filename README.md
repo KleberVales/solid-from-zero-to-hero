@@ -14,3 +14,9 @@ making them easy to maintain and extend. These principles can be applied to any 
 These principles help programmers write cleaner code by separating responsibilities, reducing coupling, facilitating refactoring, and encouraging code reuse.
 
 1. SRP — Single Responsibility Principle:
+
+Single Responsibility Principle — A class should have one, and only one, reason to change.
+
+This principle states that a class should be specialized in a single subject and have only one responsibility within the software; that is, the class should have a single task or action to perform.
+
+When learning object-oriented programming, we unknowingly give a class more than one responsibility and end up creating classes that do everything — God Classes*. At first, this may seem efficient, but because responsibilities end up being mixed, when there is a need to make changes to this class, it will be difficult to modify one of these responsibilities without compromising the others. Every change ends up being introduced with a certain level of uncertainty in our system — especially if there are no automated tests!
