@@ -35,3 +35,7 @@ Violating the Single Responsibility Principle can lead to several problems, incl
 The single responsibility principle is not limited to classes; it can also be applied to methods and functions. 
 In other words, anything responsible for performing an action should only be responsible for what it is designed to do.
 
+I consider SRP (Single Principle Ratio) one of the most important principles; it ends up being the basis for other principles and patterns because it addresses topics such as coupling and cohesion, characteristics that all object-oriented code should have.
+
+By applying this principle, you will automatically be writing cleaner and more maintainable code! If you are interested in this subject, I recommend reading about best practices for writing impeccable code.
+
