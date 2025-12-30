@@ -61,6 +61,8 @@ Interface Segregation Principle — A class should not be forced to implement in
 
 This principle basically states that it is better to create more specific interfaces instead of having a single generic interface.
 
+**5. DIP — Dependency Inversion Principle:**
+
 
 
 
