@@ -48,6 +48,8 @@ when new behaviors and features need to be added to the software, we should exte
 
 Liskov Substitution Principle — A derived class must be substitutable for its base class.
 
+The Liskov substitution principle was introduced by Barbara Liskov in her 1987 lecture "Data Abstraction." Liskov's formal definition states that:
+
 
 
 
