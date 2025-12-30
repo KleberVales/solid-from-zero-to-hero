@@ -63,6 +63,17 @@ This principle basically states that it is better to create more specific interf
 
 **5. DIP — Dependency Inversion Principle:**
 
+Dependency Inversion Principle — Depend on abstractions, not implementations.
+
+According to Uncle Bob, this principle can be defined as follows:
+
+1. High-level modules should not depend on low-level modules. Both should depend on the abstraction.
+
+2. Abstractions should not depend on details. Details should depend on abstractions.
+
+In the context of object-oriented programming, people often confuse Dependency Inversion with Dependency Injection; however, 
+they are distinct but related concepts with a common purpose: to decouple code.
+
 
 
 
