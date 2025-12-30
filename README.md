@@ -4,3 +4,9 @@ SOLID principles are five object-oriented programming principles that facilitate
 making them easy to maintain and extend. These principles can be applied to any OOP language.
 
 ## The 5 principles of OOP
+
+- S — Single Responsibility Principle
+- O — Open-Closed Principle
+- L — Liskov Substitution Principle
+- I — Interface Segregation Principle
+- D — Dependency Inversion Principle
