@@ -55,6 +55,8 @@ injection and also other SOLID principles, such as the Open-Closed Principle and
 
 Following the LSP allows us to use polymorphism with more confidence. We can call our derived classes by referring to their base class without worrying about unexpected results.
 
+**4. ISP — Interface Segregation Principle:**
+
 
 
 
