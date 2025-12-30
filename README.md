@@ -50,6 +50,11 @@ Liskov Substitution Principle — A derived class must be substitutable for its 
 
 The Liskov substitution principle was introduced by Barbara Liskov in her 1987 lecture "Data Abstraction." Liskov's formal definition states that:
 
+To avoid violating the Liskov Substitution Principle, in addition to structuring your abstractions very well, in some cases you will need to use dependency 
+injection and also other SOLID principles, such as the Open-Closed Principle and the Interface Segregation Principle—which will be covered in the next topic.
+
+Following the LSP allows us to use polymorphism with more confidence. We can call our derived classes by referring to their base class without worrying about unexpected results.
+
 
 
 
