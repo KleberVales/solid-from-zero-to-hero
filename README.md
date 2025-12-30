@@ -12,3 +12,5 @@ making them easy to maintain and extend. These principles can be applied to any 
 - D — Dependency Inversion Principle
 
 These principles help programmers write cleaner code by separating responsibilities, reducing coupling, facilitating refactoring, and encouraging code reuse.
+
+1. SRP — Single Responsibility Principle:
