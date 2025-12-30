@@ -13,7 +13,7 @@ making them easy to maintain and extend. These principles can be applied to any 
 
 These principles help programmers write cleaner code by separating responsibilities, reducing coupling, facilitating refactoring, and encouraging code reuse.
 
-1. SRP — Single Responsibility Principle:
+**1. SRP — Single Responsibility Principle:**
 
 Single Responsibility Principle — A class should have one, and only one, reason to change.
 
